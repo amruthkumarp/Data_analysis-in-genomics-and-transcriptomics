@@ -1,4 +1,4 @@
-# README — Multi-Omics Data Analysis Codes
+# README —  Data Analysis Codes
 ---
 **Purpose:**  
 This repository contains only the **code and commands** for multiple omics pipelines.  
