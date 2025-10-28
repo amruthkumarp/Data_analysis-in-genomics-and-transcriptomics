@@ -42,9 +42,8 @@ This repository contains only the **code** for multiple omics pipelines.
 
 ---
 
-## 4️⃣ Alternative Splicing Analysis — `rMATS` / `SUPPA2`
-
-**Code:** `/splicing/run_splicing.sh`  
+## 4️⃣ Alternative Splicing Analysis — `scseq2'
+  
 **Techniques included:**
 - Junction count quantification from aligned BAM files  
 - Identification of skipped exons, A5SS, A3SS, RI, MXE events  
